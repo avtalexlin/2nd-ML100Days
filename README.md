@@ -16,3 +16,6 @@ D13 程式實作 把連續型變數離散化
 D14 Subplots
 D15 Heatmap & Grid-plot
 D16 模型初體驗 Logistic Regression
+D17 特徵工程簡介
+D18 特徵類型
+D19 數值型特徵-補缺失值與標準化
